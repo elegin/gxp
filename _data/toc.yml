@@ -1,0 +1,25 @@
+- title: GxP
+  url: docs
+  links:
+    - title: "Tech Field X"
+      url: "docs/getting-started"
+      children:
+        - title: Field A
+          url: "docs/getting-started"
+        - title: Field B
+          url: "docs/getting-started"
+        - title: Field C
+          url: "docs/getting-started"
+    - title: "Tech Field Y"
+      url: "docs/getting-started"
+      children:
+        - title: Field D
+          url: "docs/getting-started"
+        - title: Field E
+          url: "docs/getting-started"
+        - title: Field F
+          url: "docs/getting-started"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
